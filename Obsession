@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Supernatural Obsession</title>
+  <link rel="stylesheet" href="style.css"> </head>
+<body>
+  <div class="gallery">
+    <img src="SUPERNATURAL.jpg" alt="Image 1 Description">
+    <img src="SUPERNATURAL (1).jpg" alt="Image 2 Description">
+    <img src="SUPERNATURAL (2).jpg" alt="Image 3 Description">
+    </div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/wDv8VQMtMKI?si=Vg6PULyT6sdTGLOR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
